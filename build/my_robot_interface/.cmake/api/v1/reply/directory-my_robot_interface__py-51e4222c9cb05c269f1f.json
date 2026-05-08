@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "my_robot_interface__py",
+		"source" : "/home/omi/action_ws/build/my_robot_interface/my_robot_interface__py"
+	}
+}

@@ -1,0 +1,159 @@
+[0.167s] Invoking command in '/home/omi/action_ws/build/my_robot_interface': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/omi/action_ws/install/my_py_pkg:/home/omi/ws_dec2/install/samplebot_description:/home/omi/ws_dec2/install/bot_slam:/home/omi/ws_dec2/install/bot_nav:/opt/ros/humble /usr/bin/cmake --build /home/omi/action_ws/build/my_robot_interface -- -j16 -l16
+[0.197s] [  6%] Built target my_robot_interface__cpp
+[0.198s] [  6%] Built target my_robot_interface__rs
+[0.198s] [ 15%] Built target my_robot_interface__rosidl_generator_c
+[0.204s] [ 15%] Built target ament_cmake_python_copy_my_robot_interface
+[0.209s] [ 34%] Built target my_robot_interface__rosidl_typesupport_c
+[0.209s] [ 34%] Built target my_robot_interface__rosidl_typesupport_introspection_c
+[0.211s] [ 53%] Built target my_robot_interface__rosidl_typesupport_introspection_cpp
+[0.211s] [ 53%] Built target my_robot_interface__rosidl_typesupport_cpp
+[0.211s] [ 62%] Built target my_robot_interface__rosidl_typesupport_fastrtps_cpp
+[0.213s] [ 71%] Built target my_robot_interface__rosidl_typesupport_fastrtps_c
+[0.226s] [ 71%] Built target my_robot_interface
+[0.240s] [ 75%] Built target my_robot_interface__py
+[0.256s] [ 81%] Built target my_robot_interface__rosidl_generator_py
+[0.268s] [ 87%] Built target my_robot_interface__rosidl_typesupport_c__pyext
+[0.271s] [ 93%] Built target my_robot_interface__rosidl_typesupport_fastrtps_c__pyext
+[0.272s] [100%] Built target my_robot_interface__rosidl_typesupport_introspection_c__pyext
+[0.333s] running egg_info
+[0.333s] writing my_robot_interface.egg-info/PKG-INFO
+[0.333s] writing dependency_links to my_robot_interface.egg-info/dependency_links.txt
+[0.333s] writing top-level names to my_robot_interface.egg-info/top_level.txt
+[0.335s] reading manifest file 'my_robot_interface.egg-info/SOURCES.txt'
+[0.335s] writing manifest file 'my_robot_interface.egg-info/SOURCES.txt'
+[0.350s] [100%] Built target ament_cmake_python_build_my_robot_interface_egg
+[0.357s] Invoked command in '/home/omi/action_ws/build/my_robot_interface' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/omi/action_ws/install/my_py_pkg:/home/omi/ws_dec2/install/samplebot_description:/home/omi/ws_dec2/install/bot_slam:/home/omi/ws_dec2/install/bot_nav:/opt/ros/humble /usr/bin/cmake --build /home/omi/action_ws/build/my_robot_interface -- -j16 -l16
+[0.364s] Invoking command in '/home/omi/action_ws/build/my_robot_interface': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/omi/action_ws/install/my_py_pkg:/home/omi/ws_dec2/install/samplebot_description:/home/omi/ws_dec2/install/bot_slam:/home/omi/ws_dec2/install/bot_nav:/opt/ros/humble /usr/bin/cmake --install /home/omi/action_ws/build/my_robot_interface
+[0.370s] -- Install configuration: ""
+[0.370s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/share/ament_index/resource_index/rosidl_interfaces/my_robot_interface
+[0.370s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/include/my_robot_interface/my_robot_interface
+[0.370s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/include/my_robot_interface/my_robot_interface/action
+[0.370s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/include/my_robot_interface/my_robot_interface/action/count_until.h
+[0.370s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/include/my_robot_interface/my_robot_interface/action/detail
+[0.370s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/include/my_robot_interface/my_robot_interface/action/detail/count_until__struct.h
+[0.370s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/include/my_robot_interface/my_robot_interface/action/detail/count_until__functions.c
+[0.370s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/include/my_robot_interface/my_robot_interface/action/detail/count_until__functions.h
+[0.370s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/include/my_robot_interface/my_robot_interface/action/detail/count_until__type_support.h
+[0.370s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/include/my_robot_interface/my_robot_interface/msg
+[0.370s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/include/my_robot_interface/my_robot_interface/msg/rosidl_generator_c__visibility_control.h
+[0.370s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/share/my_robot_interface/environment/library_path.sh
+[0.370s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/share/my_robot_interface/environment/library_path.dsv
+[0.370s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/lib/libmy_robot_interface__rosidl_generator_c.so
+[0.370s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/include/my_robot_interface/my_robot_interface
+[0.370s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/include/my_robot_interface/my_robot_interface/action
+[0.370s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/include/my_robot_interface/my_robot_interface/action/detail
+[0.370s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/include/my_robot_interface/my_robot_interface/action/detail/count_until__rosidl_typesupport_fastrtps_c.h
+[0.370s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/include/my_robot_interface/my_robot_interface/msg
+[0.370s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/include/my_robot_interface/my_robot_interface/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[0.371s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/lib/libmy_robot_interface__rosidl_typesupport_fastrtps_c.so
+[0.371s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/include/my_robot_interface/my_robot_interface
+[0.371s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/include/my_robot_interface/my_robot_interface/action
+[0.371s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/include/my_robot_interface/my_robot_interface/action/detail
+[0.371s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/include/my_robot_interface/my_robot_interface/action/detail/count_until__type_support.c
+[0.371s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/include/my_robot_interface/my_robot_interface/action/detail/count_until__rosidl_typesupport_introspection_c.h
+[0.371s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/include/my_robot_interface/my_robot_interface/msg
+[0.371s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/include/my_robot_interface/my_robot_interface/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[0.371s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/lib/libmy_robot_interface__rosidl_typesupport_introspection_c.so
+[0.371s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/lib/libmy_robot_interface__rosidl_typesupport_c.so
+[0.371s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/include/my_robot_interface/my_robot_interface
+[0.371s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/include/my_robot_interface/my_robot_interface/action
+[0.371s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/include/my_robot_interface/my_robot_interface/action/detail
+[0.371s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/include/my_robot_interface/my_robot_interface/action/detail/count_until__traits.hpp
+[0.371s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/include/my_robot_interface/my_robot_interface/action/detail/count_until__builder.hpp
+[0.371s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/include/my_robot_interface/my_robot_interface/action/detail/count_until__type_support.hpp
+[0.371s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/include/my_robot_interface/my_robot_interface/action/detail/count_until__struct.hpp
+[0.371s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/include/my_robot_interface/my_robot_interface/action/count_until.hpp
+[0.371s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/include/my_robot_interface/my_robot_interface/msg
+[0.371s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/include/my_robot_interface/my_robot_interface/msg/rosidl_generator_cpp__visibility_control.hpp
+[0.371s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/include/my_robot_interface/my_robot_interface
+[0.371s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/include/my_robot_interface/my_robot_interface/action
+[0.371s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/include/my_robot_interface/my_robot_interface/action/detail
+[0.371s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/include/my_robot_interface/my_robot_interface/action/detail/dds_fastrtps
+[0.371s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/include/my_robot_interface/my_robot_interface/action/detail/count_until__rosidl_typesupport_fastrtps_cpp.hpp
+[0.371s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/include/my_robot_interface/my_robot_interface/msg
+[0.371s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/include/my_robot_interface/my_robot_interface/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[0.372s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/lib/libmy_robot_interface__rosidl_typesupport_fastrtps_cpp.so
+[0.372s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/include/my_robot_interface/my_robot_interface
+[0.372s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/include/my_robot_interface/my_robot_interface/action
+[0.372s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/include/my_robot_interface/my_robot_interface/action/detail
+[0.372s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/include/my_robot_interface/my_robot_interface/action/detail/count_until__type_support.cpp
+[0.372s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/include/my_robot_interface/my_robot_interface/action/detail/count_until__rosidl_typesupport_introspection_cpp.hpp
+[0.372s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/lib/libmy_robot_interface__rosidl_typesupport_introspection_cpp.so
+[0.372s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/lib/libmy_robot_interface__rosidl_typesupport_cpp.so
+[0.372s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/share/my_robot_interface/environment/pythonpath.sh
+[0.372s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/share/my_robot_interface/environment/pythonpath.dsv
+[0.372s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/local/lib/python3.10/dist-packages/my_robot_interface-0.0.0-py3.10.egg-info
+[0.372s] -- Installing: /home/omi/action_ws/install/my_robot_interface/local/lib/python3.10/dist-packages/my_robot_interface-0.0.0-py3.10.egg-info/dependency_links.txt
+[0.372s] -- Installing: /home/omi/action_ws/install/my_robot_interface/local/lib/python3.10/dist-packages/my_robot_interface-0.0.0-py3.10.egg-info/SOURCES.txt
+[0.372s] -- Installing: /home/omi/action_ws/install/my_robot_interface/local/lib/python3.10/dist-packages/my_robot_interface-0.0.0-py3.10.egg-info/top_level.txt
+[0.372s] -- Installing: /home/omi/action_ws/install/my_robot_interface/local/lib/python3.10/dist-packages/my_robot_interface-0.0.0-py3.10.egg-info/PKG-INFO
+[0.372s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/local/lib/python3.10/dist-packages/my_robot_interface
+[0.372s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/local/lib/python3.10/dist-packages/my_robot_interface/__init__.py
+[0.372s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/local/lib/python3.10/dist-packages/my_robot_interface/my_robot_interface_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[0.372s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/local/lib/python3.10/dist-packages/my_robot_interface/_my_robot_interface_s.ep.rosidl_typesupport_introspection_c.c
+[0.372s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/local/lib/python3.10/dist-packages/my_robot_interface/libmy_robot_interface__rosidl_generator_py.so
+[0.372s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/local/lib/python3.10/dist-packages/my_robot_interface/action
+[0.372s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/local/lib/python3.10/dist-packages/my_robot_interface/action/__init__.py
+[0.372s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/local/lib/python3.10/dist-packages/my_robot_interface/action/_count_until.py
+[0.372s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/local/lib/python3.10/dist-packages/my_robot_interface/action/_count_until_s.c
+[0.372s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/local/lib/python3.10/dist-packages/my_robot_interface/_my_robot_interface_s.ep.rosidl_typesupport_fastrtps_c.c
+[0.372s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/local/lib/python3.10/dist-packages/my_robot_interface/my_robot_interface_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[0.372s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/local/lib/python3.10/dist-packages/my_robot_interface/_my_robot_interface_s.ep.rosidl_typesupport_c.c
+[0.372s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/local/lib/python3.10/dist-packages/my_robot_interface/my_robot_interface_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[0.390s] Listing '/home/omi/action_ws/install/my_robot_interface/local/lib/python3.10/dist-packages/my_robot_interface'...
+[0.390s] Listing '/home/omi/action_ws/install/my_robot_interface/local/lib/python3.10/dist-packages/my_robot_interface/action'...
+[0.395s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/local/lib/python3.10/dist-packages/my_robot_interface/my_robot_interface_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[0.395s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/local/lib/python3.10/dist-packages/my_robot_interface/my_robot_interface_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[0.395s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/local/lib/python3.10/dist-packages/my_robot_interface/my_robot_interface_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[0.395s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/lib/libmy_robot_interface__rosidl_generator_py.so
+[0.395s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/share/ament_index/resource_index/rust_packages/my_robot_interface
+[0.395s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/share/my_robot_interface/rust
+[0.395s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/share/my_robot_interface/rust/Cargo.toml
+[0.395s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/share/my_robot_interface/rust/build.rs
+[0.395s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/share/my_robot_interface/rust/src
+[0.395s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/share/my_robot_interface/rust/src/action.rs
+[0.395s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/share/my_robot_interface/rust/src/action
+[0.395s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/share/my_robot_interface/rust/src/action/rmw.rs
+[0.395s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/share/my_robot_interface/rust/src/lib.rs
+[0.396s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/share/my_robot_interface/action/CountUntil.idl
+[0.396s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/share/my_robot_interface/action/CountUntil.action
+[0.396s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/share/ament_index/resource_index/package_run_dependencies/my_robot_interface
+[0.396s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/share/ament_index/resource_index/parent_prefix_path/my_robot_interface
+[0.396s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/share/my_robot_interface/environment/ament_prefix_path.sh
+[0.396s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/share/my_robot_interface/environment/ament_prefix_path.dsv
+[0.396s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/share/my_robot_interface/environment/path.sh
+[0.396s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/share/my_robot_interface/environment/path.dsv
+[0.396s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/share/my_robot_interface/local_setup.bash
+[0.396s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/share/my_robot_interface/local_setup.sh
+[0.396s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/share/my_robot_interface/local_setup.zsh
+[0.396s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/share/my_robot_interface/local_setup.dsv
+[0.396s] -- Installing: /home/omi/action_ws/install/my_robot_interface/share/my_robot_interface/package.dsv
+[0.396s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/share/ament_index/resource_index/packages/my_robot_interface
+[0.396s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/share/my_robot_interface/cmake/export_my_robot_interface__rosidl_generator_cExport.cmake
+[0.396s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/share/my_robot_interface/cmake/export_my_robot_interface__rosidl_generator_cExport-noconfig.cmake
+[0.396s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/share/my_robot_interface/cmake/export_my_robot_interface__rosidl_typesupport_fastrtps_cExport.cmake
+[0.396s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/share/my_robot_interface/cmake/export_my_robot_interface__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[0.396s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/share/my_robot_interface/cmake/my_robot_interface__rosidl_typesupport_introspection_cExport.cmake
+[0.396s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/share/my_robot_interface/cmake/my_robot_interface__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[0.396s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/share/my_robot_interface/cmake/my_robot_interface__rosidl_typesupport_cExport.cmake
+[0.396s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/share/my_robot_interface/cmake/my_robot_interface__rosidl_typesupport_cExport-noconfig.cmake
+[0.396s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/share/my_robot_interface/cmake/export_my_robot_interface__rosidl_generator_cppExport.cmake
+[0.396s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/share/my_robot_interface/cmake/export_my_robot_interface__rosidl_typesupport_fastrtps_cppExport.cmake
+[0.396s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/share/my_robot_interface/cmake/export_my_robot_interface__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[0.396s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/share/my_robot_interface/cmake/my_robot_interface__rosidl_typesupport_introspection_cppExport.cmake
+[0.396s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/share/my_robot_interface/cmake/my_robot_interface__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[0.396s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/share/my_robot_interface/cmake/my_robot_interface__rosidl_typesupport_cppExport.cmake
+[0.396s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/share/my_robot_interface/cmake/my_robot_interface__rosidl_typesupport_cppExport-noconfig.cmake
+[0.396s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/share/my_robot_interface/cmake/export_my_robot_interface__rosidl_generator_pyExport.cmake
+[0.396s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/share/my_robot_interface/cmake/export_my_robot_interface__rosidl_generator_pyExport-noconfig.cmake
+[0.396s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/share/my_robot_interface/cmake/rosidl_cmake-extras.cmake
+[0.397s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/share/my_robot_interface/cmake/ament_cmake_export_dependencies-extras.cmake
+[0.397s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/share/my_robot_interface/cmake/ament_cmake_export_include_directories-extras.cmake
+[0.397s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/share/my_robot_interface/cmake/ament_cmake_export_libraries-extras.cmake
+[0.397s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/share/my_robot_interface/cmake/ament_cmake_export_targets-extras.cmake
+[0.397s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/share/my_robot_interface/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[0.397s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/share/my_robot_interface/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[0.397s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/share/my_robot_interface/cmake/my_robot_interfaceConfig.cmake
+[0.397s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/share/my_robot_interface/cmake/my_robot_interfaceConfig-version.cmake
+[0.397s] -- Up-to-date: /home/omi/action_ws/install/my_robot_interface/share/my_robot_interface/package.xml
+[0.397s] Invoked command in '/home/omi/action_ws/build/my_robot_interface' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/omi/action_ws/install/my_py_pkg:/home/omi/ws_dec2/install/samplebot_description:/home/omi/ws_dec2/install/bot_slam:/home/omi/ws_dec2/install/bot_nav:/opt/ros/humble /usr/bin/cmake --install /home/omi/action_ws/build/my_robot_interface
