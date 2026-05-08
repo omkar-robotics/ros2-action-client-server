@@ -13,7 +13,7 @@ This project demonstrates:
 * Asynchronous Communication
 * Real-time Execution Workflow
 * Industry-style ROS2 Package Structure
-* 
+  
 ---
 
 # Project Overview
