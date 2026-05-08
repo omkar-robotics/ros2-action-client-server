@@ -13,14 +13,7 @@ This project demonstrates:
 * Asynchronous Communication
 * Real-time Execution Workflow
 * Industry-style ROS2 Package Structure
-
-Built using:
-
-* ROS2 Humble
-* Python
-* rclpy
-* Custom ROS2 Interfaces
-
+* 
 ---
 
 # Project Overview
