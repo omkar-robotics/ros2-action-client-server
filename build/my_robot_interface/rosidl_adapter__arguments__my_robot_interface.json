@@ -1,6 +1,0 @@
-{
-  "package_name": "my_robot_interface",
-  "non_idl_tuples": [
-    "/home/omi/action_ws/src/my_robot_interface:action/CountUntil.action"
-  ]
-}

@@ -1,4 +1,0 @@
-[console_scripts]
-count_until_client = my_py_pkg.count_until_client:main
-count_until_server = my_py_pkg.count_until_server:main
-
