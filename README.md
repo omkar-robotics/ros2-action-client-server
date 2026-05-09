@@ -165,27 +165,27 @@ ros2 run my_py_pkg count_until_client
 ## Server Output
 
 ```text
-Goal accepted
-Counting: 0
-Counting: 1
-Counting: 2
-Counting: 3
-Counting: 4
-Counting: 5
-Returning result
+[INFO] Action Server Started
+[INFO] Received goal request
+[INFO] Executing goal...
+[INFO] Counting: 1
+[INFO] Counting: 2
+[INFO] Counting: 3
+[INFO] Counting: 4
+[INFO] Counting: 5
+[INFO] Goal completed
 ```
 
 ## Client Output
 
 ```text
-Goal accepted
-Current Number: 0
-Current Number: 1
-Current Number: 2
-Current Number: 3
-Current Number: 4
-Current Number: 5
-Result: 5
+[INFO] Goal accepted
+[INFO] Current Number: 1
+[INFO] Current Number: 2
+[INFO] Current Number: 3
+[INFO] Current Number: 4
+[INFO] Current Number: 5
+[INFO] Result: 5
 ```
 
 ---
@@ -236,20 +236,22 @@ Example:
 
 # Why Actions are Important
 
-Services are not suitable for long-running tasks because:
+ROS2 Services are not suitable for long-running tasks because:
 
-* No feedback mechanism
-* No cancel functionality
-* Client waits blindly
-* Difficult to manage multiple requests
+No feedback mechanism
+No cancellation support
+Client waits blindly
+Difficult to monitor progress
 
 ROS2 Actions solve these problems using:
 
-* Feedback updates
-* Goal management
-* Asynchronous communication
-* Result handling
-* Cancel support
+Real-time feedback
+Goal management
+Asynchronous communication
+Result handling
+Goal cancellation support
+
+This makes Actions ideal for robotics applications.
 
 ---
 
@@ -265,15 +267,15 @@ ROS2 Actions solve these problems using:
 
 # Future Improvements
 
-* Goal Cancellation
+* Goal Cancellation Mechanism
+* Multi-Threaded Executor
+* Reentrant Callback Groups
 * Multiple Goal Handling
-* Multi-threaded Execution
-* Fibonacci Action
-* Robot Navigation Action
+* Fibonacci Action Example
+* Robot Navigation Actions
 * Gazebo Integration
 * RViz Visualization
-* Real Robot Integration
-
+* Real Robot Hardware Integration
 ---
 
 # Learning Outcome
@@ -284,7 +286,7 @@ Through this project, I learned:
 * Custom ROS2 Interfaces
 * Client-Server Communication
 * Asynchronous Programming in ROS2
-* Goal/Result Workflow
+* Goal/Result/Feedback Workflow
 * ROS2 Package Structure
 * Professional Robotics Development Workflow
 
